@@ -259,3 +259,6 @@ You've learned how to compare the performance of the model with the previous ver
 ## Hand in
 
 Send a link to your repository on GitHub to your teacher.
+
+## Update Log
+- Minor update to keep the codespace active (June 2024)
